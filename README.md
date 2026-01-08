@@ -1,0 +1,2 @@
+# MedicalGuide-PDF_and_Markdown
+眼科，骨科，超声科的医学指南PDF，及MineU转markdown后，又经人工清洗可直接用来构建RAG或知识图谱的文件
